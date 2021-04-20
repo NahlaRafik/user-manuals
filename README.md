@@ -21,3 +21,5 @@ You'll have time every Friday afternoon (16:45-17:00) to update your user manual
 ## Example
 
 You can see @[jackherizsmith's](https://github.com/jackherizsmith) user manual here: https://github.com/fac19/user-manuals/issues/10
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.tbTS7_kWAA3zFIJ7SW9y0AHaI4%26pid%3DApi&f=1" width="100" alt="egg" />
