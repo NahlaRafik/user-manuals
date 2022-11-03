@@ -1,6 +1,9 @@
 # User Manuals
 Personal user manuals! Keep them updated, read them well 📒
 
+![Alt text](athlete4.png?raw=true "Title")
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 ![Spongebob reading a book](https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif)
 
 ## How do I edit my user manual?
